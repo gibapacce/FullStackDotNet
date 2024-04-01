@@ -1,0 +1,32 @@
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.exe
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.deps.json
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.runtimeconfig.json
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.runtimeconfig.dev.json
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.dll
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\ref\PrimitiveTypesAndExpressions.dll
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.pdb
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.AssemblyInfo.cs
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.dll
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\ref\PrimitiveTypesAndExpressions.dll
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.pdb
+C:\Users\labuser\Desktop\GitStudy\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.genruntimeconfig.cache
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.exe
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.deps.json
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.runtimeconfig.json
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.runtimeconfig.dev.json
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.dll
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net5.0\PrimitiveTypesAndExpressions.pdb
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.csproj.AssemblyReference.cache
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.AssemblyInfoInputs.cache
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.AssemblyInfo.cs
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.dll
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\refint\PrimitiveTypesAndExpressions.dll
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.pdb
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\PrimitiveTypesAndExpressions.genruntimeconfig.cache
+C:\Users\Gilberto_Filho\OneDrive - Dell Technologies\Estudos\FullStackDotNet\FullStack.net\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net5.0\ref\PrimitiveTypesAndExpressions.dll
